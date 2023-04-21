@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGXHBK6AT_AGg/profile-displaybackgroundimage-shrink_350_1400/0/1615113269979?e=1673481600&v=beta&t=N3-YPJ8bCbD1nXL6j8gVRw4HM2zf3IxxeRd8KeM1ats)]
+<!-- [![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGXHBK6AT_AGg/profile-displaybackgroundimage-shrink_350_1400/0/1615113269979?e=1673481600&v=beta&t=N3-YPJ8bCbD1nXL6j8gVRw4HM2zf3IxxeRd8KeM1ats)] -->
 <h1 align="center">Hi 👋, I'm Tushar Singhota</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
