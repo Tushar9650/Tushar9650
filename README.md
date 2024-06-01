@@ -4,11 +4,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently Working as a Software Developer Engineer at GEDU Global Education
+- 🌱 I’m currently Working as a React Developer  at GEDU Global Education.  
 
 - 👨‍💻 All of my projects are available at [https://tushar9650.github.io/PortFolio/](https://tushar9650.github.io/PortFolio/)
 
-- 💬 Ask me about **Data Structures and Algorithm, HTML,CSS,JS,React Js**
+- 💬 Ask me about **Data Structures and Algorithm, HTML,CSS,JS,ReactJs, NextJs, TypeScript, MUI, MERN**
 
 - 📫 How to reach me **tusharsinghota9650@gmail.com**
 
