@@ -1,14 +1,14 @@
 <!-- [![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGXHBK6AT_AGg/profile-displaybackgroundimage-shrink_350_1400/0/1615113269979?e=1673481600&v=beta&t=N3-YPJ8bCbD1nXL6j8gVRw4HM2zf3IxxeRd8KeM1ats)] -->
 <h1 align="center">Hi 👋, I'm Tushar Singhota</h1>
-<h3 align="center">A Passionate React Developer </h3>
+<h3 align="center">A Passionate Software Developer </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently Working as a React Developer  at GEDU Global Education.  
+- 🌱 I’m currently Working as a Software Developer  at GEDU Global Education.  
 
 - 👨‍💻 All of my projects are available at [https://tushar9650.github.io/PortFolio/](https://tushar9650.github.io/PortFolio/)
 
-- 💬 Ask me about **Data Structures and Algorithm, HTML,CSS,JS,ReactJs, NextJs, TypeScript, MUI, MERN**
+- 💬 Ask me about **Data Structures and Algorithm, HTML,CSS,JS,ReactJs, NextJs, TypeScript, MUI,MongoDB, Nodejs, Express, Docker, Socket.io**
 
 - 📫 How to reach me **tusharsinghota9650@gmail.com**
 
